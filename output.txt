@@ -1,0 +1,12 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 6ED2-C3B6
+
+ Directory of E:\General
+
+05/23/2021  01:31 PM    <DIR>          .
+05/23/2021  01:31 PM    <DIR>          ..
+05/23/2021  01:31 PM                 0 output.txt
+05/23/2021  01:31 PM               994 subprocess.py
+05/23/2021  12:44 PM    <DIR>          __pycache__
+               2 File(s)            994 bytes
+               3 Dir(s)  157,183,905,792 bytes free
